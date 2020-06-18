@@ -1,5 +1,8 @@
 ///   ***   ---   |||         In the name of ALLAH        |||   ---   ***   ///
- 
+// https://codeforces.com/contest/445/submission/83838482
+// Verdict :Accepted
+// Time:	31 ms	
+// Memory:260 KB
 #include<bits/stdc++.h>
 using namespace std;
 const int mx = 110;
